@@ -1,0 +1,10 @@
+group 'io.github.drymarev'
+version '0.1.0-SNAPSHOT'
+
+apply from: 'dependencies.gradle'
+
+allprojects {
+  repositories {
+    jcenter()
+  }
+}

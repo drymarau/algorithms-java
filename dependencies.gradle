@@ -1,0 +1,8 @@
+ext.versions = [algs4: '1.0.2',
+
+                junit: '4.12',
+                truth: '0.31']
+ext.libraries = [algs4: "edu.princeton.cs:algs4:$versions.algs4",
+
+                 junit: "junit:junit:$versions.junit",
+                 truth: "com.google.truth:truth:$versions.truth"]

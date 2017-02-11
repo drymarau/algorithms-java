@@ -1,0 +1,27 @@
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Windows thumbnail cr
+Thumbs.cr
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# IntelliJ IDEA
+.navigation
+.idea
+.gradle
+build/
+*.iml
+*.log
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
